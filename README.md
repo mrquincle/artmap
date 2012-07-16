@@ -17,7 +17,7 @@ Note, that we are not interested in proving that ARTMAP is better than anything 
 ## An example
 The classification task is simple because of illustrative purposes. A so-called circle-in-a-square problem. There are two classes, one inside a circle, one outside of the circle. The expected result on visualisation would be a perfect circle. However, because of the dynamics in ARTMAP, the circle is not perfect, but it's pretty fine. 
 
-![alt text](https://github.com/mrquincle/ilvq/raw/master/doc/artmap_circle.jpg "ARTMAP circle")
+![alt text](https://github.com/mrquincle/artmap/raw/master/doc/artmap_circle.jpg "ARTMAP circle")
 
 ## Where can I read more?
 * [Wikipedia](http://en.wikipedia.org/wiki/Adaptive_resonance_theory)
